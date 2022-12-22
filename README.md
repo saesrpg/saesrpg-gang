@@ -5,4 +5,4 @@
 
 ## Information
 
-This is a dummy repo for issue / reward tracking for gang issues / reward changes.
+This is now tracked on https://saesrpg.uk
